@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+}
+.container {
+  margin-top: 1em;
+  text-align: center;
+  border: solid;
+  background-color: white;
+}
+
+.container:hover{
+  background-color: rgb(192, 247, 251);
+}
