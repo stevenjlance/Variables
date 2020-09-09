@@ -78,5 +78,21 @@ console.log(`Mt favorite animal is the ${myPet}`);
 ```
 TODAY'S TASKS
 --------------
-1. CHALLENGE 1
-2. CHALLENGE 2
+1. **CHALLENGE 1**: Have the div with an id of `#text` update with the word "CLICKED" when the user clicks the div.  
+![](https://media.giphy.com/media/SWVvSghZq06AwpCKLD/giphy.gif). 
+
+2. **CHALLENGE 2**: Create a variable that contains any number. Update the second div with that variable when clicked. Bonus points if you can make it an `<h2>` and use `${}`.  
+![](https://media.giphy.com/media/hWRPlCho1aQSwZR1go/giphy.gif)
+
+3. **CHALLENGE 3**: Update the third div with your name when your mouse is over the div.  
+![](https://media.giphy.com/media/QUMJz37ERU3a2Hdm1m/giphy.gif)
+
+4. **CHALLENGE 4**: Increase a number by 1 every time the 4th div is clicked. Bonus points if you can make it an h2 and use ${}. Double triple bonus points if you can get the number to reset when the mouse LEAVES the div.
+**HINT**: You will need to declare a counter variable that is updated everytime the div is clicked.  
+![](https://media.giphy.com/media/JrB6MwsqVrN766OEsG/giphy.gif)
+
+5. **CHALLENGE 5**: Decresae a a number by 3 every time the mouse moves inside the 5th div.  
+![](https://media.giphy.com/media/KBDyTcJJ8sNtnir4MN/giphy.gif)
+
+6. **CHALLENGE 6**: Create two variables. One to store your age and and another to store your name. String together your name and counter variables here using concatination when mouse is pressed on the 6th div.  
+![](https://media.giphy.com/media/f9qtdLSrGRUcrDEUce/giphy.gif)
