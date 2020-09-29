@@ -1,4 +1,4 @@
-VARIABLES
+VARIABLES LAB
 ==================
 **NOTE**: *The first portion of class and the code-along covers how to do this, so you can scroll down to the bottom to see the tasks. This document is meant for a reference when needed.*
 
