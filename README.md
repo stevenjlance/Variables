@@ -91,8 +91,8 @@ TODAY'S TASKS
 **HINT**: You will need to declare a counter variable that is updated everytime the div is clicked.  
 ![](https://media.giphy.com/media/JrB6MwsqVrN766OEsG/giphy.gif)
 
-5. **CHALLENGE 5**: Decresae a a number by 3 every time the mouse moves inside the 5th div.  
+5. **CHALLENGE 5**: Decrease a number by 3 every time the mouse moves inside the 5th div.  
 ![](https://media.giphy.com/media/KBDyTcJJ8sNtnir4MN/giphy.gif)
 
-6. **CHALLENGE 6**: Create two variables. One to store your age and and another to store your name. String together your name and counter variables here using concatination when mouse is pressed on the 6th div.  
+6. **CHALLENGE 6**: Create two variables. One to store your age and and another to store your name. String together your name and counter variables here using concatenation when mouse is pressed on the 6th div.  
 ![](https://media.giphy.com/media/f9qtdLSrGRUcrDEUce/giphy.gif)
