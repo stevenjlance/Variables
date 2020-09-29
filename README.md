@@ -1,6 +1,6 @@
 VARIABLES
 ==================
-**NOTE**: The video will cover how to do this, so you can scroll down to the bottom to see the tasks. This document is meant for a reference when needed.
+**NOTE**: *The first portion of class and the code-along covers how to do this, so you can scroll down to the bottom to see the tasks. This document is meant for a reference when needed.*
 
 In computer science, **variables** are containers for storing data values that we can update as our program runs. We declare a variable using the `var` **once** and assign it a value using the assignment operator (`=`).
 
@@ -72,7 +72,7 @@ console.log('My favorite animal is the ' + myPet + '.');
 2. You can also use backticks (`) and the notation ${ } with the variable name going between the brackets.
 ```javascript
 var myPet = "seahorse";
-console.log(`Mt favorite animal is the ${myPet}`);
+console.log(`My favorite animal is the ${myPet}`);
 // This will print: My favorite animal is the seahorse.
 
 ```
